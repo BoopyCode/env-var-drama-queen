@@ -1,0 +1,2 @@
+# No dependencies needed! Uses Node.js standard library only.
+# Just needs Node.js installed.
